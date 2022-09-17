@@ -6,3 +6,4 @@ https://github.com/Git-Model/Modeling-Universe/tree/main/Data%20Analysis%20and%2
 
 
 * [Task01 数据可视化](https://github.com/HeGanjie/Modeling-Notes/blob/main/task1_note.md)
+* [task_02 回归分析1_线性回归模型必知必会](https://github.com/HeGanjie/Modeling-Notes/blob/main/task2_note.md)
