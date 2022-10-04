@@ -46,6 +46,8 @@
         * WLS：用法见教程代码，如果存在异方差，则 WLS 返回结果系数标准误会更小
         * FGLS：估计出 h(x) 的形式，再使用wls估计法求解模型。这种方法又称为FGLS
   
+#### 作业
+[作业解答链接](https://colab.research.google.com/drive/1rCxxKzgndqOHz5Stvcdtuqt0w0NQC0Y5#scrollTo=RqUMiKql59P_)
 
 #### 体会
 
